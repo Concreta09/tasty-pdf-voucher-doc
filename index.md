@@ -29,7 +29,7 @@ You can create a voucher product by enabling switch then compile necessary field
 
 The locations fields can be used to limit a use of the voucher to a selected location(s)
 
-[![](https://github.com/Concreta09/tasty-pdf-voucher-doc/blob/gh-pages/voucher_menu_item.png)](https://github.com/Concreta09/tasty-pdf-voucher-doc/blob/gh-pages/voucher_menu_item.png)
+[![](https://github.com/Concreta09/tasty-pdf-voucher-doc/blob/gh-pages/voucher_menu_item.png)](https://github.com/Concreta09/tasty-pdf-voucher-doc/blob/gh-pages/voucher_menu_item.png?raw=true)
 
 
 ### Easily Build Voucher Templates
