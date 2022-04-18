@@ -44,6 +44,8 @@ You can build a voucher template, which is attached to products to generate a PD
 
 Customers will receive a email with voucher as attachment once the order has been paid for, if a order has a payment method that is set in "Excluded payment method" in the Voucher settings page the voucher will be created disabled and don't will be sent to email customer, can be sent after by operator from the backend area.
 
+> PDF voucher come with four ready to use template and gift card demo example will be created on install.
+
 ### Use voucher on your site
 
 To display the voucher form on your site cartbox, you will need to add the voucherForm component to both the default and local layouts, and manually insert **@component('voucherForm')** into the cartbox/default.blade.php file of the cart extension. It is recommended to place it after the coupon components.
