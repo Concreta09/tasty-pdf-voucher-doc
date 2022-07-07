@@ -65,7 +65,7 @@ Registered customers on your store will be able to download vouchers they've pur
 If you need to quickly redeem vouchers in-person include a QR code on your vouchers!
 You can then scan the codes with a mobile or any device with a camera to redeem them in seconds:
 
-[![](https://raw.githubusercontent.com/Concreta09/tasty-pdf-voucher-doc/gh-pages/can_voucher.png)](https://raw.githubusercontent.com/Concreta09/tasty-pdf-voucher-doc/gh-pages/scan_voucher.png)
+[![](https://raw.githubusercontent.com/Concreta09/tasty-pdf-voucher-doc/gh-pages/scan_voucher.png)](https://raw.githubusercontent.com/Concreta09/tasty-pdf-voucher-doc/gh-pages/scan_voucher.png)
 
 ### Administration tool
 
